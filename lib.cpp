@@ -1,6 +1,5 @@
 #include <iostream>
 #include "lib.h"
-
 float maggiore(float vettore[], int n)
 {
     int i=0;
