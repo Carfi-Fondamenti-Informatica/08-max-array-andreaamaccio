@@ -10,4 +10,5 @@ int main(){
         cin>>array[i];
     }
     cout<<maggiore(array, dimensione);
+    return 0;
 }
