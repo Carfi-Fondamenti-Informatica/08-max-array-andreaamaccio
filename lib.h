@@ -1,1 +1,1 @@
-int maggiore(float vettore[], int n);
+float maggiore(float vettore[], int n);
