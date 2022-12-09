@@ -1,7 +1,7 @@
 #include <iostream>
 #include "lib.h"
 
-int maggiore(float vettore[], int n)
+float maggiore(float vettore[], int n)
 {
     int i=0;
     while(i<n){
